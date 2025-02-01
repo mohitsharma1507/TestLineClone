@@ -1,0 +1,18 @@
+
+@media (max-width: 480px) {
+  .container {
+    width: 90%;
+    margin-left: 5%;
+    padding: 1rem;
+  }
+
+  .heading {
+    margin-left: 0;
+    text-align: center;
+    font-size: 28px;
+  }
+
+  .para {
+    font-size: 16px;
+  }
+}
